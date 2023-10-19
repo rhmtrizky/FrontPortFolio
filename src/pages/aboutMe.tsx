@@ -1,4 +1,4 @@
-import { Button, Flex, Heading, Image, Stack, Text, useBreakpointValue, Box } from '@chakra-ui/react';
+import { Flex, Heading, Image, Stack, Text, Box } from '@chakra-ui/react';
 import { SiChakraui, SiMysql, SiReact, SiTypescript } from 'react-icons/si';
 import { RiJavascriptFill } from 'react-icons/ri';
 import { BiLogoPostgresql, BiLogoGoLang } from 'react-icons/bi';

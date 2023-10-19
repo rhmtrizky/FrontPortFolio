@@ -1,4 +1,4 @@
-import { Box, Button, Flex } from '@chakra-ui/react';
+import { Button, Flex } from '@chakra-ui/react';
 import '../components/style.css';
 import { useState } from 'react';
 import '../main.js';
